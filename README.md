@@ -1,2 +1,2 @@
 # Othelo
-My Project
+Our Project
