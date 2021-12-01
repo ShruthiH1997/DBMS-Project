@@ -1,2 +1,1 @@
-# Othelo
-Our Project
+# School Management System for DBMS Lab
